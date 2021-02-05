@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I've been privleged to work on high-profile and unknown software across various industries including Healthcare, FinTech, HR, Business Process Management, Developmnet and Security Tooling. 
+
+I'm passionate about DevSecOps, well executed. 
+
+I'm currently focused primarily on Security, Ethical Hacking, and Strange Rythmic Patterns.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=doymturner)](https://github.com/ryo-ma/github-profile-trophy)
 
